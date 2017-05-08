@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Main.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BgScroller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="26" Column="3" />
+      <File FileName="Assets\Scripts\PathGenerator.cs" Line="3" Column="19" />
+      <File FileName="Assets\Scripts\GameOverMenu.cs" Line="41" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="44" Column="51" />
+      <File FileName="Assets\Scripts\EventManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
